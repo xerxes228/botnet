@@ -397,7 +397,7 @@ if (zbf.config.SelectedLanguage == "pl") then
 
 	zbf.language[ "historicaldata_tooltip" ] = "Pokaż dane historyczne"
 	zbf.language[ "historicaldata_title" ] = "Dane historyczne"
-	zbf.language[ "pobieranie_danych" ] = "Pobieranie danych"
+	zbf.language[ "fetching_data" ] = "Pobieranie danych"
 	zbf.language[ "fetching_data_title" ] = "Pobieranie danych historycznych"
 
 	zbf.language[ "Info Sign" ] = "Znak informacyjny"
@@ -417,5 +417,5 @@ if (zbf.config.SelectedLanguage == "pl") then
 
 	// UPDATE 1.3.5
 	zbf.language[ "SortByEarnings" ] = "Sortuj według zarobków"
-	zbf.language[ "Zarobki" ] = "Zarobki"
+	zbf.language[ "Earnings" ] = "Zarobki"
 end
